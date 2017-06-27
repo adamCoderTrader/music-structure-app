@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music Structure App</string>
+
+    <string name="nowPlaying">"now Playing"</string>
+    <string name="albums">"Albums"</string>
+    <string name="artist">"Artists"</string>
+    <string name="store">"Store"</string>
+    <string name="playlist">"Playlist"</string>
+    <string name="payment">"Payment"</string>
+
+    <string name="artistName">"Artist's Name"</string>
+    <string name="artistSong">"Artist's Song"</string>
+    <string name="albumDisplay">"Album Display"</string>
+    <string name="playButton">"Play"</string>
+    <string name="rewindButton">"rewind"</string>
+    <string name="fastForwardButton">"f.forward"</string>
+
+    <string name="nowPlayingDescription">"This activity plays the currently selected song using the mediaPlayer class."</string>
+    <string name="albumsDescription">"This activity will contain an array of Albums contained on the device, accessed using the mediaPlayer class."</string>
+    <string name="artistDescription">"This activity will contain an array of Artist names, accessed using the mediaPlayer class."</string>
+    <string name="storeDescription">""This activity will contain an array of Albums, Songs and Artists biographies accessed online for purchased."</string>
+    <string name="playlistDescription">"This activity will contain an array of songs selected by the user."</string>
+    <string name="paymentDescription">"The PayPal Payments REST API easily and securely accept's online and mobile payments."</string>
+</resources>
